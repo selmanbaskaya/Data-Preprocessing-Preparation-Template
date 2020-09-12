@@ -37,4 +37,7 @@ sc = StandardScaler()
 
 X_train = sc.fit_transform(x_train)
 X_test = sc.fit_transform(x_test)
+
+Y_train = sc.fit_transform(y_train)
+Y_test = sc.fit_transform(y_test)
 """ Code Sectio End"""
