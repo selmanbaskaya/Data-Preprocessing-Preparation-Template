@@ -6,3 +6,4 @@ What templates are there?
 - Data Upload
 - Divide by Training and Test Data
 - Attribute Scaling (Standardization)
+- Visualization
