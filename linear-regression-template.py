@@ -23,7 +23,7 @@ print(file_name)
 #Accessing data in DataFrame format
 var_name = data[['column_name']]
 print(var_name)
-# ||
+# || 
 var_name_2 = data.iloc[ :, starting_column_index : end_column_index].values
 print(var_name_2)
 
